@@ -1,0 +1,5 @@
+Robert Jaworski - The Big J
+I will be at my colleagues office (Citimotors) tomorrow for some Intro's to Linux and other open source related discussions... Well, i think Glenn and I will be splittin' up for a while.To attend another java discussion on his side... :)   Its really better to migrate dont ya think ?!@#$#
+My colleague and I will be at UE recto (August 7,14,21) for a simple discussion on java... See ya there studes !!    :D
+Well all I can say is.. "This is the Moment !!" hehehe !!
+package com.UE.Lesson1;  public class Dog extends Animal {     public Dog(){          }      public String getname(){        return getName("Dog !!");    }        public static void main(String args[])    {        Dog d = new Dog();        System.
